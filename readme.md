@@ -9,7 +9,7 @@ Contact : a24738598@gmail.com
 ## Core Files  
 
 - **Main**  
-[Main.c] : Providing UI of options that manager could select  
+[Main.c](main.c) : Providing UI of options that manager could select  
 
 - **Core**  
 [Core.c](core.c) : A collection of `utility` functions that validate user input and process strings and phone numbers in a specified format.  
